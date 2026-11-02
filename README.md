@@ -1,2 +1,2 @@
-# ITgram
+ITgram
 bu IT sinfimizning suhbat chati
